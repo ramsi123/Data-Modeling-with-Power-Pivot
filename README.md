@@ -21,7 +21,7 @@ Data modeling is the process of creating a simplified diagram of a software syst
 <img src="https://i.imgur.com/VDr43ok.png" height="65%" width="65%" alt="Data in Excel"/>
 </p>
 
-<h2>Insert Data Model to Power Pivot and Adding Key Performance Indicator</h2>
+<h2>Insert Data Model to Pivot Table and Adding Key Performance Indicator</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/j25Cfue.png" height="65%" width="65%" alt="Data in Excel"/>
